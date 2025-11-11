@@ -60,3 +60,6 @@ logs/
 *.tar
 *.gz
 *.bz2
+*.pdf
+
+
