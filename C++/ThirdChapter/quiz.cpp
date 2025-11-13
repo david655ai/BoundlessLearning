@@ -17,6 +17,15 @@ struct CandyBar
     /* data */
 };//quiz5
 
+// struct company
+// {
+//     string name;
+//     double zj;
+//     double weight;
+//     /* data */
+// };quiz7、8
+
+
 int main()
 {
     // personal_info person1;
@@ -57,6 +66,27 @@ int main()
     // cout<<"Input elementary: \n";
     // cin>>snack.label>>snack.weight>>snack.caro;
     // cout<<snack.label<<" "<<snack.weight<<" "<<snack.caro;//quiz6
+    // struct company com;
+    // cout<<"input info: \n";
+    // cin>>com.name>>com.weight>>com.zj;
+    // cout<<com.name<<" "<<com.weight<<" "<<com.zj;//quiz7
+
+    // struct company *q = new company;
+    // cin>>q->zj>>q->name>>q->weight;
+    // cout<<q->zj<<" "<<q->name<<" "<<q->weight;//quiz8
+
+
+    // struct CandyBar *q = new CandyBar[3];
+    // cin>>q->caro>>q->label>>q->weight;
+    // cin>>(q+1)->caro>>(q+1)->label>>(q+1)->weight;
+    // cin>>(q+2)->caro>>(q+2)->label>>(q+2)->weight;
+    // cout<<q->caro<<" "<<q->label<<" "<<q->weight<<endl;
+    // cout<<(q+1)->caro<<" "<<(q+1)->label<<" "<<(q+1)->weight<<endl;
+    // cout<<(q+2)->caro<<" "<<(q+2)->label<<" "<<(q+2)->weight<<endl;//quiz9
+
     return 0;
+
+
+
 
 }
