@@ -6,6 +6,7 @@ This repository serves as a **comprehensive record of my learning journey**, int
 
 ## Future plan
 Learn Rust for OS competition
+
 Learn on "String and Slice"
 
 Learn C++ for Computer exam
@@ -13,6 +14,10 @@ Learn C++ for Computer exam
 Learn Python for Mathematical Modeling Competition
 
 Learn some download order such as aria,rclone etc.
+
+Learn Mathmatics Modeling theory
+
+Learn Linux kownledge
 ## Quote
 
 > “Boundless learning means walking endlessly between the known and the unknown— not to reach an end, but to expand what can be imagined.” 
