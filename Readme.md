@@ -6,6 +6,7 @@ This repository serves as a **comprehensive record of my learning journey**, int
 
 ## Future plan
 Learn Rust for OS competition
+Learn on "String and Slice"
 
 Learn C++ for Computer exam
 
