@@ -21,3 +21,6 @@ Diploy docker(I even don't understand what the meaning of docker hhh)
 
 ## 2025.11.18
 Learn Entropy weight
+
+## 2025.11.19
+Learn Array Rust
