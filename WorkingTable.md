@@ -27,3 +27,5 @@ Learn Array Rust
 
 ## 2025.11.20-2025.11.23
 Mathmatics Modeling
+
+Start a new idea
