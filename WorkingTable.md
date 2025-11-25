@@ -25,7 +25,10 @@ Learn Entropy weight
 ## 2025.11.19
 Learn Array Rust
 
-## 2025.11.20-2025.11.23
+## 2025.11.20-2025.11.24
 Mathmatics Modeling
 
 Start a new idea
+
+## 2025.11.25
+Learn IELTS, just left 10 days
