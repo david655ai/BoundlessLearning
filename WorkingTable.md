@@ -32,3 +32,9 @@ Start a new idea
 
 ## 2025.11.25
 Learn IELTS, just left 10 days
+
+## 2025.11.26
+Just play,regrte
+
+## 2025.11.27
+Do some research on Moyamoya

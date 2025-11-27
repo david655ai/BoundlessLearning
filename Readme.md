@@ -22,6 +22,8 @@ Learn Markdown grammar
 Learn Docker
 
 Merge a Music Recommender with another music project
+
+Play some jrpg and famous Japanese games
 ## Quote
 
 > “Boundless learning means walking endlessly between the known and the unknown— not to reach an end, but to expand what can be imagined.” 
